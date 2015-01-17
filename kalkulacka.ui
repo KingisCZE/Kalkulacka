@@ -13,10 +13,6 @@
   <property name="windowTitle">
    <string>Kalkulačka</string>
   </property>
-  <property name="windowIcon">
-   <iconset>
-    <normaloff>../../../icon.svg</normaloff>../../../icon.svg</iconset>
-  </property>
   <widget class="QWidget" name="centralWidget">
    <widget class="QLabel" name="vystup">
     <property name="geometry">
