@@ -1,2 +1,2 @@
 # Kalkulacka
-Written in QT C++ with QTCreator
+Written in Qt C++ with Qt Creator
